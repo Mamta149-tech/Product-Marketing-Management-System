@@ -21,8 +21,11 @@ There are given several facilities, incentive as well. Thus to keep record of th
 Here through our software backup is also created which helps the institution to know about the annual profit and loss in easy manner without any manual involvement. 
 
 ->	Invoice is generated 
+
 ->	New products can be added  in product list
+
 ->	New zone can be added and removed
+
 ->	Daily backup is created for further use
 
 
